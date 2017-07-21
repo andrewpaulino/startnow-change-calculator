@@ -1,0 +1,75 @@
+h1 {
+    color:green;
+}
+button {
+    background-color: green;
+
+}
+input {
+    margin: auto;
+}
+#dollars-output {
+    left: 160px;
+    bottom: 80px;
+    position: relative;
+    font-size: 30px;
+    font-style: bold;
+    color: green;
+}
+div.dollar {
+    max-width: 150px;
+    max-height: 70px;
+    content:url(images/Dollar.jpg)  
+}
+#quarters-output{
+    left: 150px;
+    bottom: 80px;
+    position: relative;
+    font-size: 30px;
+    font-style: bold;
+    color: green;
+}
+div.quarter{
+    max-width: 150px;
+    max-height: 70px;
+    content:url(images/quarter.jpg) 
+}
+#dimes-output{
+    left: 150px;
+    bottom: 80px;
+    position: relative;
+    font-size: 30px;
+    font-style: bold;
+    color: green;
+}
+div.dime{
+    max-width: 150px;
+    max-height: 70px;
+    content:url(images/Dime.jpg)
+}
+#nickels-output{
+    left: 150px;
+    bottom: 80px;
+    position: relative;
+    font-size: 30px;
+    font-style: bold;
+    color: green;
+}
+div.nickel{
+    max-width: 150px;
+    max-height: 70px;
+    content:url(images/Nickel.jpg)
+}
+#pennies-output{
+    left: 150px;
+    bottom: 80px;
+    position: relative;
+    font-size: 30px;
+    font-style: bold;
+    color: green;
+}
+div.penny{
+    max-width: 150px;
+    max-height: 70px;
+    content:url(images/penny.jpg)
+}
